@@ -1,6 +1,5 @@
 ### 🌴 Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gamesense1337&theme=synthwave&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 <a href="https://github.com/gamesense1337">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gamesense1337&_icons=true&count_private=true&include_all_commits=true&theme=synthwave" />
 </a>
