@@ -1,10 +1,10 @@
 ### 🌴 Hi there. 👋
 
 <a href="https://github.com/gamesense1337">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gamesense1337&_icons=true&count_private=true&include_all_commits=true&theme=synthwave" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=gamesense1337&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave" />
 </a>
 <a href="https://github.com/gamesense1337">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamesense1337&theme=synthwave" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gamesense1337&theme=synthwave" />
 </a>
 
 <!--
